@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ボーダーライト",
+  "base_artist": "FFF(フライ)",
+  "createdAt": "2025-12-02T01:03:11.155773Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ボーダーライト",
+      "artist": "FFF(フライ)",
+      "has_synced": false,
+      "path": "select/pl_01_ボーダーライト_FFF(フライ).txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ボーダーライト",
+      "artist": "FFF(フライ)",
+      "has_synced": false,
+      "path": "select/pl_02_ボーダーライト_FFF(フライ).txt"
+    }
+  ]
+}
